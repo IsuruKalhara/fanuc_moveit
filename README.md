@@ -11,7 +11,7 @@ If you want to directly run this package without fanuc_at_home package, use demo
 <img src="images/rviz.png" width = "700">
 
 ### MoveIt RViz + Gazebo control
-<img src="images/gazebo.png" width = "400"> <img src="images/fanuc_rviz.png" width = "400">
+<img src="images/gazebo.png" width = "350"> <img src="images/fanuc_rviz.png" width = "350">
 
 ### MoveIt commander 
 <img src="images/commander.png" width = "700">
