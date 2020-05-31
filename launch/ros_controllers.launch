@@ -2,7 +2,7 @@
 <launch>
 
   <!-- Load joint controller configurations from YAML file to parameter server -->
-  <rosparam file="$(find fanuc_moveit)/config/fanuc_ros_controllers.yaml" command="load"/>
+  <rosparam file="$(find fanuc_at_home)/config/fanuc_control.yaml" command="load"/>
 
   <!-- Load the controllers -->
   <node name="controller_spawner" pkg="controller_manager" type="spawner" respawn="false"

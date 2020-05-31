@@ -5,7 +5,7 @@ To start MoveIt with fanuc_on_table use move_group.launch and to start MoveIt wi
 
 Using this package you can learn how to set up move_group to run with multiple robot spawned environments(namespaced robots). 
 
-If you want to directly run this package without fanuc_at_home package, use demo_gazebo.launch or demo.launch. 
+Use demo_gazebo.launch or demo.launch. 
 
 ### MoveIt RViz control
 <img src="images/rviz.png" width = "700">
